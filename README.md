@@ -56,6 +56,7 @@ To reproduce the results of other baselines, you can refer to the following impl
 - **G2P2**: [G2P2 GitHub Repository](https://github.com/WenZhihao666/G2P2)
 - **GraphGPT**: [GraphGPT GitHub Repository](https://github.com/HKUDS/GraphGPT)
 - **LLaGA**: [LLaGA GitHub Repository](https://github.com/VITA-Group/LLaGA)
+- **LLM4HeG**: [LLM4HeG GitHub Repository](https://github.com/honey0219/LLM4HeG)
 
 ## Fine-Tuning Vicuna 7B, Bloom560M, and Bloom1B1
 
