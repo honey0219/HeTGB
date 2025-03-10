@@ -1,4 +1,6 @@
-# HeTGB: A Comprehensive Benchmark for Heterophilic Text-Attributed Graphs
+# HeTGB
+
+The code and datasets used for our paper [*"A Comprehensive Benchmark for Heterophilic Text-Attributed Graphs"*](https://arxiv.org/abs/2503.04822).
 
 ## Data
 
